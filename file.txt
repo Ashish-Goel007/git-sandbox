@@ -5,3 +5,4 @@ To persist the changes directly without putting the changes to the staging area.
 This is my first git file.
 
 Working 
+Fixed a bug and commiting the changes to bugfix branch.
