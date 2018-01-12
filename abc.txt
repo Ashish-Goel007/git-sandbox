@@ -1,1 +1,3 @@
+STA
+
 Welcome to world of Devops
