@@ -50,3 +50,6 @@ Thumbs.db
 ehthumbs.db
 Desktop.ini
 $RECYCLE.BIN/
+logs
+.preference
+.settings
